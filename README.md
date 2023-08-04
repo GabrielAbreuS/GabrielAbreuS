@@ -1,4 +1,4 @@
-## Bem-vindo(a) dev !
+## Bem-vindo(a) dev ! 👽
 
 # 💫 About Me:
 Atualmente me especializando em Front-End
