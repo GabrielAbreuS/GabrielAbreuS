@@ -18,6 +18,6 @@ Atualmente me especializando em Front-End
 ![](https://github-contributor-stats.vercel.app/api?username=GabrielAbreuS&limit=5&theme=dracula&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=GabrielAbreuS&icon=5&color=1)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=GabrielAbreuS&icon=5&color=12)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
