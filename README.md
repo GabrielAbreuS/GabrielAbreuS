@@ -1,7 +1,9 @@
 ## Bem-vindo(a) dev ! 👽
 
 # 💫 About Me:
-Atualmente me especializando em Front-End
+Olá, tenho 23 anos, moro em Cubatão - São Paulo.
+
+Estudante de desenvolvimento Front-End com um foco especial em JavaScript. Sou criativo e apaixonado por Front-End com habilidades em HTML, CSS, JavaScript, React.JS, Git, GitHub. Atualmente estou estudando por conta própria e em breve pretendo começar uma faculdade em ADS.
 
 
 # 💻 Tech Stack:
