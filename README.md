@@ -3,10 +3,15 @@
 # 💫 About Me:
 Olá, tenho 23 anos, moro em Cubatão - São Paulo.
 
-Estudante de desenvolvimento Front-End com um foco especial em JavaScript. Sou criativo e apaixonado por Front-End com habilidades em HTML, CSS, JavaScript, React.JS, Git, GitHub. Atualmente estou estudando por conta própria e estou disposto a aprender e trabalhar com inteligência artificial sempre acompanhando a evolução do mercado.
+Estudante de desenvolvimento Front-End, sou criativo e apaixonado por desenvolvimento web com habilidades em HTML, CSS, JavaScript, React.JS, WordPress e PHP. Atualmente estou estudando por conta própria e estou disposto a aprender e trabalhar com inteligência artificial sempre acompanhando a evolução do mercado.
 
 # 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
 # 📊 GitHub Stats:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielAbreuS&theme=dark&show_icons=true  ) 
 
