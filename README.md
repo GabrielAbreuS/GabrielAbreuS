@@ -1,17 +1,17 @@
-## Bem-vindo(a) dev ! 👽
+## Bem-vindo(a)
 
 # 💫 About Me:
-Olá, tenho 23 anos, moro em Cubatão - São Paulo.
+Olá, tenho 23 anos, moro em São Paulo.
 
-Estudante de desenvolvimento Front-End, sou criativo e apaixonado por desenvolvimento web com habilidades em HTML, CSS, JavaScript, React.JS, WordPress e PHP. Atualmente estou estudando por conta própria e estou disposto a aprender e trabalhar com inteligência artificial sempre acompanhando a evolução do mercado.
+Estudante de design, sou criativo e apaixonado por criar experiências visuais impactantes e funcionais sempre evoluindo minhas habilidades, sempre aberto a novas conexões e oportunidades.
 
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
+- Design de Interface do Usuário (UI) e Experiência do Usuário (UX).
+- Figma, Wordpress.
+- Adobe Creative (Photoshop).
+- Eficiente em Equipe.
+
+Também sou estudante de Alemão, estou constantemente em busca de desafios em minha carreira.
+
 # 📊 GitHub Stats:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielAbreuS&theme=dark&show_icons=true  ) 
 
