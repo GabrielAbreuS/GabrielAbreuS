@@ -7,7 +7,6 @@ Estudante de design, sou criativo e apaixonado por criar experiências visuais i
 
 - Design de Interface do Usuário (UI) e Experiência do Usuário (UX).
 - Figma, Wordpress.
-- Adobe Creative (Photoshop).
 - Eficiente em Equipe.
 
 Também sou estudante de Alemão, estou constantemente em busca de desafios em minha carreira.
