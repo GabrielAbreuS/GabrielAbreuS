@@ -6,8 +6,7 @@ Olá, tenho 23 anos, moro em São Paulo.
 Estudante de design, sou criativo e apaixonado por criar experiências visuais impactantes e funcionais sempre evoluindo minhas habilidades, sempre aberto a novas conexões e oportunidades.
 
 - Design de Interface do Usuário (UI) e Experiência do Usuário (UX).
-- Figma, Wordpress.
-
+  
 # 📊 GitHub Stats:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielAbreuS&theme=dark&show_icons=true  ) 
 
